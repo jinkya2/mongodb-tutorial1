@@ -1,4 +1,12 @@
 # Section 1: Introduction  
+## Introduction
+- What we will learm
+![screenshot1](images/section1/1.1.png)
+![screenshot1](images/section1/1.2.png)
+![screenshot1](images/section1/1.3.png)
+![screenshot1](images/section1/1.4.png)
+![screenshot1](images/section1/1.5.png)
+![screenshot1](images/section1/1.6.png)
 
 # Section 2: Understanding the Basics & CRUD Operations  
 # Section 3: Schemas & Relations: How to Structure Documents  
